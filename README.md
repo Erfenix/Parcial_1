@@ -2,5 +2,5 @@
 
 
 # Integrantes 
-Alejandro Restrepo corrales  y  
+Alejandro Restrepo corrales   
 Felipe Correa Hurtado
